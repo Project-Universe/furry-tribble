@@ -1,7 +1,7 @@
 # furry-tribble
 ## Copy Paste App for Mac, iPhone, windows, and more.
 ## You can join our discord server at [https://discord.gg/7GY6VPvuGj](https://discord.gg/7GY6VPvuGj)
-
+### Sort of like [https://github.com/p0deje/Maccy](https://github.com/p0deje/Maccy)
 ### _Awaiting dev. Contact if interested._
 
 
