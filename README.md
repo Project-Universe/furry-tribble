@@ -1,18 +1,3 @@
-# Project Template Repo
-## This is the template repo for the Project Universe repo.
-### To create a new repo:
-* Edit readme
-* Clone project
-* Run `docsify init ./docs`
-* Create Discord Chat and Webhook channels
-* Create Github Webhook
-* Create Github Team
-* Create Discord Team
-
--------------------
--------------------
--------------------
-
 # furry-tribble
 ## Copy Paste App for Mac, iPhone, windows, and more.
 ## You can join our discord server at [https://discord.gg/7GY6VPvuGj](https://discord.gg/7GY6VPvuGj)
