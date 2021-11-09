@@ -13,8 +13,8 @@
 -------------------
 -------------------
 
-# Project Name
-## Project Discription
+# furry-tribble
+## Copy Paste App for Mac, iPhone, windows, and more.
 ## You can join our discord server at [https://discord.gg/7GY6VPvuGj](https://discord.gg/7GY6VPvuGj)
 
 ### _Awaiting dev. Contact if interested._
@@ -26,4 +26,4 @@
 * We use repobeats on **all** our repos. You can find more [here](https://repobeats.axiom.co/configs).
 * The Codeowners file deafults to _* @J-dogcoder_, but that will be adapted based on the repo when turned into an active project.
 
-# MAKE SURE TO [GENERATE A Repobeat](https://repobeats.axiom.co/configs) UPON CREATION OF NEW PROJECT
+![Alt](https://repobeats.axiom.co/api/embed/c3884ed23f100acd4d75f988320b34404c94f275.svg "Repobeats analytics image")
